@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **ashish.k.sharma0211@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
-  <img align="center" alt="Coding" width="400" src="https://dribbble.com/shots/3652824-Then-Now">
+- ⚡ Fun fact **I think I am funny**!
+  <img align="center" alt="Coding" width="400" src="![ec8d4b3c350813be65b1711a528c5143](https://user-images.githubusercontent.com/86518799/160935045-c8c833bc-6605-4be8-8985-c5aec6d2204a.gif)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +30,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-0211&show_icons=true&locale=en" alt="ashish-0211" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-0211&" alt="ashish-0211" /></p>
+
+
+
+
+
+![ec8d4b3c350813be65b1711a528c5143](https://user-images.githubusercontent.com/86518799/160935045-c8c833bc-6605-4be8-8985-c5aec6d2204a.gif)
+
+
