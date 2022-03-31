@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Sharma</h1>
 <h3 align="center">I am Ashish Kumar Sharma. I'm a B.Tech prefinal year student in Computer science and Engineering from KIET Group Of Institutions, Ghaziabad</h3>
+<img align="right" alt="Coding" width="500" src="https://github.com/Ashish-0211/Ashish-0211/blob/main/ec8d4b3c350813be65b1711a528c5143.gif">
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
@@ -10,7 +11,7 @@
 - 📫 How to reach me **ashish.k.sharma0211@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**!
-  <img align="center" alt="Coding" width="400" src="![ec8d4b3c350813be65b1711a528c5143](https://user-images.githubusercontent.com/86518799/160935045-c8c833bc-6605-4be8-8985-c5aec6d2204a.gif)">
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,9 +33,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-0211&" alt="ashish-0211" /></p>
 
 
-
-
-
-![ec8d4b3c350813be65b1711a528c5143](https://user-images.githubusercontent.com/86518799/160935045-c8c833bc-6605-4be8-8985-c5aec6d2204a.gif)
 
 
