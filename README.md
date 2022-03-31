@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Sharma</h1>
 <h3 align="center">I am Ashish Kumar Sharma. I'm a B.Tech prefinal year student in Computer science and Engineering from KIET Group Of Institutions, Ghaziabad</h3>
-<img align="right" alt="Coding" width="500" src="https://github.com/Ashish-0211/Ashish-0211/blob/main/ec8d4b3c350813be65b1711a528c5143.gif">
+<!-- <img align="right" alt="Coding" width="500" src="https://github.com/Ashish-0211/Ashish-0211/blob/main/ec8d4b3c350813be65b1711a528c5143.gif"> -->
+<img align="right" alt="Coding" width="500" src="https://github.com/Ashish-0211/Ashish-0211/blob/main/git%20video.mp4">
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
