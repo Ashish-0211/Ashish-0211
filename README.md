@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Ashish Kumar Sharma</h1>
+<h1 align="center">Hi I'm Ashish Kumar Sharma 👋</h1>
 <!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p> -->
 <h3 align="center">I am Ashish Kumar Sharma. I'm a B.Tech prefinal year student in Computer science and Engineering from KIET Group Of Institutions, Ghaziabad</h3>
 <br>
