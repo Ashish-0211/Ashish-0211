@@ -60,8 +60,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-0211&" alt="ashish-0211" /></p> -->
 <br/>
 
-## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/Ashish-0211/Ashish-0211/blob/output/github-contribution-grid-snake.gif)
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ashish-0211">
